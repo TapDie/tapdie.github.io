@@ -60,6 +60,12 @@ a small {
   text-transform: uppercase;
 }
 
+#logo {
+  width: 80%;
+  height: auto;
+  margin-top: 5vh;
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
